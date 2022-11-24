@@ -19,7 +19,7 @@
                             </div>
                         </form>
                         <div class="text-center mt-5">
-                            <p>Don't have an account? <a href="<?= base_url('auth/register') ?>" style="text-decoration: none;">Create One</a> </p>
+                            <p>Don't have an account? <a href="<?= base_url('admin/index') ?>" style="text-decoration: none;">Create One</a> </p>
                         </div>
                     </div>
                 </div>
